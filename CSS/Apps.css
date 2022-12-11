@@ -1,0 +1,58 @@
+h1{
+  border: solid;
+  padding:10px 10px 10px 10px;
+  font-size: 4.0rem;
+  border-radius: 1.0rem;
+  text-decoration-color: darkgreen;
+  border-color: darkgreen;
+  border-width: thick;
+  background-color: black;
+  color: darkgreen;
+  font-family: sans-serif;
+}
+.BODY{
+  background-color: black;
+  color: lightgreen;
+  font-family: "Lucida Console","Courier New","monospace";
+}
+
+.menu ul li{
+display: inline-block;
+list-style: none;
+padding: 10px;
+}
+
+.menu a{
+text-decoration: none;
+color: darkgreen;
+}
+
+.menu a:hover{
+  color: lightgreen;
+}
+
+.one{
+  border: solid;
+  border-color: darkgreen;
+  justify-content:space-between
+}
+.two{
+  font-size: 0.5rem;
+}
+h2{
+  line-height: darkgreen;
+  font-size: 2.0rem;
+}
+.footer{
+  color: white;
+}
+p{
+  font-size: 1.3rem;
+}
+body{
+  background:url("../Images/Background image APPS.jpg") center top / cover;
+  image-resolution: from-image;
+}
+footer{
+  color: lightgreen;
+}

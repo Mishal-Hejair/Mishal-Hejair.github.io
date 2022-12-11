@@ -1,0 +1,84 @@
+h1{
+  border: solid;
+  padding:10px 10px 10px 10px;
+  font-size: 3.0rem;
+  text-decoration-color: red;
+  border-color: red;
+  border-width: thick;
+  background-color: white;
+}
+body{
+  background:url("../Images/Background image index.jpg") center top / cover;
+  image-resolution: from-image;
+}
+h2{
+  text-align: center;
+  align-self: center;
+  background-color: white;
+  width: 100%;
+  border-radius: 25px;
+  font-size: 2rem;
+}
+.APPS{
+border: groove;
+border-color: white;
+margin-bottom: 10%;
+border-width: medium;
+width: 30%;
+font-size: 100%;
+border-color: red;
+text-align: center;
+align-self: center;
+}
+.HTML{
+border: groove;
+margin-bottom: 10%;
+border-width: medium;
+width: 30%;
+font-size: 100%;
+border-color: red;
+}
+.CSS{
+border: groove;
+margin-bottom: 10%;
+border-width: medium;
+width: 30%;
+float: right;
+font-size: 100%;
+border-color: red;
+}
+.boxes{
+  display: flex;
+  justify-content:space-between;
+  margin-bottom: 30%;
+}
+
+.menu ul li{
+display: inline-block;
+list-style: none;
+padding: 10px;
+}
+
+.menu a{
+text-decoration: none;
+color: red;
+}
+
+.menu a:hover{
+  color: black;
+}
+
+
+.h3{
+  margin-top: 10%;
+  font-size: 150%;
+}
+.para{
+font-size: 1.9rem;
+font-weight: 400;
+background-color: white;
+}
+h3{
+border: groove;
+border-color: red;
+}

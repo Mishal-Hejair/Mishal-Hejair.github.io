@@ -1,0 +1,66 @@
+h1{
+  border: solid;
+text-align: center;
+  padding:10px 10px 10px 10px;
+  font-size: 4.0rem;
+  border-radius: 1.0rem;
+  text-decoration-color: black;
+  border-color: black;
+  border-width: 10px;
+  color: black;
+  font-family: sans-serif;
+
+}
+
+.menu ul li{
+display: inline-block;
+list-style: none;
+padding: 10px;
+}
+
+.menu a{
+text-decoration: none;
+color: black;
+}
+
+.menu a:hover{
+  color: orange;
+}
+
+
+body{
+  background:url("../Images/Background image HTML.jpg") center top / cover;
+  image-resolution: from-image;
+}
+table, th, td{
+  border: 1px solid black;
+  font-size: 1.0rem,
+  color: white;}
+
+  .table2{
+    width: 25%;
+  margin-left: auto;
+  float: left;
+  }
+.table1{
+  width: 25%;
+  margin-right: auto;
+  float: right;
+}
+
+h2{
+  font-size: 2.9rem;
+  border: solid;
+  border-radius: solid;
+  border-width: 7px;
+}
+.second{
+  float: left;
+}
+
+h3{
+  font-size: 2.0rem;
+  border: solid;
+  margin-top: 10%;
+
+}
